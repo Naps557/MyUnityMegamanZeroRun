@@ -1,0 +1,1376 @@
+fileFormatVersion: 2
+guid: 64dd5ad35517d784981503e485713de7
+timeCreated: 1447844667
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MegaManZeroWalking_0
+    21300002: MegaManZeroWalking_1
+    21300004: MegaManZeroWalking_2
+    21300006: MegaManZeroWalking_3
+    21300008: MegaManZeroWalking_4
+    21300010: MegaManZeroWalking_5
+    21300012: MegaManZeroWalking_6
+    21300014: MegaManZeroWalking_7
+    21300016: MegaManZeroWalking_8
+    21300018: MegaManZeroWalking_9
+    21300020: MegaManZeroWalking_10
+    21300022: MegaManZeroWalking_11
+    21300024: MegaManZeroWalking_Idle1
+    21300026: MegaManZeroWalking_Idle2
+    21300028: MegaManZeroWalking_Idle3
+    21300030: MegaManZeroWalking_15
+    21300032: MegaManZeroWalking_16
+    21300034: MegaManZeroWalking_17
+    21300036: MegaManZeroWalking_18
+    21300038: MegaManZeroWalking_19
+    21300040: MegaManZeroWalking_20
+    21300042: MegaManZeroWalking_21
+    21300044: MegaManZeroWalking_22
+    21300046: MegaManZeroWalking_23
+    21300048: MegaManZeroWalking_24
+    21300050: MegaManZeroWalking_25
+    21300052: MegaManZeroWalking_26
+    21300054: MegaManZeroWalking_27
+    21300056: MegaManZeroWalking_28
+    21300058: MegaManZeroWalking_29
+    21300060: MegaManZeroWalking_30
+    21300062: MegaManZeroWalking_31
+    21300064: MegaManZeroWalking_32
+    21300066: MegaManZeroWalking_33
+    21300068: MegaManZeroWalking_34
+    21300070: MegaManZeroWalking_35
+    21300072: MegaManZeroWalking_36
+    21300074: MegaManZeroWalking_37
+    21300076: MegaManZeroWalking_38
+    21300078: MegaManZeroWalking_39
+    21300080: MegaManZeroWalking_40
+    21300082: MegaManZeroWalking_41
+    21300084: MegaManZeroWalking_42
+    21300086: MegaManZeroWalking_43
+    21300088: MegaManZeroWalking_44
+    21300090: MegaManZeroWalking_45
+    21300092: MegaManZeroWalking_46
+    21300094: MegaManZeroWalking_47
+    21300096: MegaManZeroWalking_48
+    21300098: MegaManZeroWalking_49
+    21300100: MegaManZeroWalking_50
+    21300102: MegaManZeroWalking_51
+    21300104: MegaManZeroWalking_52
+    21300106: MegaManZeroWalking_53
+    21300108: MegaManZeroWalking_54
+    21300110: MegaManZeroWalking_55
+    21300112: MegaManZeroWalking_56
+    21300114: MegaManZeroWalking_57
+    21300116: MegaManZeroWalking_58
+    21300118: MegaManZeroWalking_59
+    21300120: MegaManZeroWalking_60
+    21300122: MegaManZeroWalking_61
+    21300124: MegaManZeroWalking_62
+    21300126: MegaManZeroWalking_63
+    21300128: MegaManZeroWalking_64
+    21300130: MegaManZeroWalking_65
+    21300132: MegaManZeroWalking_66
+    21300134: MegaManZeroWalking_67
+    21300136: MegaManZeroWalking_68
+    21300138: MegaManZeroWalking_69
+    21300140: MegaManZeroWalking_70
+    21300142: MegaManZeroWalking_71
+    21300144: MegaManZeroWalking_72
+    21300146: MegaManZeroWalking_73
+    21300148: MegaManZeroWalking_74
+    21300150: MegaManZeroWalking_75
+    21300152: MegaManZeroWalking_76
+    21300154: MegaManZeroWalking_77
+    21300156: MegaManZeroWalking_78
+    21300158: MegaManZeroWalking_79
+    21300160: MegaManZeroWalking_80
+    21300162: MegaManZeroWalking_81
+    21300164: MegaManZeroWalking_82
+    21300166: MegaManZeroWalking_83
+    21300168: MegaManZeroWalking_84
+    21300170: MegaManZeroWalking_85
+    21300172: MegaManZeroWalking_86
+    21300174: MegaManZeroWalking_87
+    21300176: MegaManZeroWalking_88
+    21300178: MegaManZeroWalking_89
+    21300180: MegaManZeroWalking_90
+    21300182: MegaManZeroWalking_91
+    21300184: MegaManZeroWalking_92
+    21300186: MegaManZeroWalking_93
+    21300188: MegaManZeroWalking_94
+    21300190: MegaManZeroWalking_95
+    21300192: MegaManZeroWalking_96
+    21300194: MegaManZeroWalking_97
+    21300196: MegaManZeroWalking_98
+    21300198: MegaManZeroWalking_99
+    21300200: MegaManZeroWalking_100
+    21300202: MegaManZeroWalking_101
+    21300204: MegaManZeroWalking_102
+    21300206: MegaManZeroWalking_103
+    21300208: MegaManZeroWalking_104
+    21300210: MegaManZeroWalking_105
+    21300212: MegaManZeroWalking_106
+    21300214: MegaManZeroWalking_107
+    21300216: MegaManZeroWalking_108
+    21300218: MegaManZeroWalking_109
+    21300220: MegaManZeroWalking_110
+    21300222: MegaManZeroWalking_111
+    21300224: MegaManZeroWalking_112
+    21300226: MegaManZeroWalking_113
+    21300228: MegaManZeroWalking_114
+    21300230: MegaManZeroWalking_115
+    21300232: MegaManZeroWalking_116
+    21300234: MegaManZeroWalking_117
+    21300236: MegaManZeroWalking_118
+    21300238: MegaManZeroWalking_120
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MegaManZeroWalking_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 478
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 478
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 480
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 480
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 481
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_5
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 483
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 482
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 483
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 481
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_9
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 481
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_10
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 482
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 484
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_Idle1
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 485
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_Idle2
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 486
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_Idle3
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 486
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_15
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 450
+        width: 14
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 504
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_17
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 418
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_18
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 469
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 423
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 417
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_21
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 421
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_22
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 420
+        width: 58
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 419
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_24
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 426
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_25
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 418
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_26
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 411
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_27
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 418
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_28
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 408
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_29
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 430
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_30
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 428
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_31
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 368
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_32
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 362
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_33
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 372
+        width: 76
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_34
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 406
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_35
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 372
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_36
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 370
+        width: 68
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 372
+        width: 76
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_38
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 347
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_39
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 347
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_40
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 353
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 354
+        width: 37
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_42
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 356
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_43
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 357
+        width: 8
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_44
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 374
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_45
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 290
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_46
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 348
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_47
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 290
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_48
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 290
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_49
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 291
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_50
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 292
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_51
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 291
+        width: 80
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_52
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 294
+        width: 80
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_53
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 295
+        width: 80
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_54
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 296
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_55
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 296
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_56
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 294
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_57
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 294
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_58
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 214
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_59
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 215
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_60
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 214
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_61
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 214
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_62
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 218
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_63
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 210
+        width: 63
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_64
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 217
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_65
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 222
+        width: 72
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_66
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 231
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_67
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 232
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_68
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 230
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_69
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 232
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_70
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 231
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_71
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 151
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_72
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 151
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_73
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 152
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_74
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 152
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_75
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 152
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_76
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 152
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_77
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 152
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_78
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 152
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_79
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 155
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_80
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 155
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_81
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 153
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_82
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 158
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_83
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 158
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_84
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 154
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_85
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 154
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 75
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_87
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 77
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_88
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 79
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_89
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 78
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_90
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 80
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_91
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 77
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_92
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 76
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_93
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 89
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_94
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 93
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_95
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 87
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_96
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 87
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_97
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 89
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_98
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 90
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_99
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 92
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_100
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 84
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_101
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 83
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_102
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 91
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_103
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 94
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_104
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 9
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_105
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_106
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 11
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_107
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 11
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_108
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 7
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_109
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 12
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_110
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 12
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_111
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 6
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_112
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 10
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_113
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 10
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_114
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 10
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_115
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 13
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_116
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 15
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_117
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 16
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_118
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 17
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZeroWalking_120
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 7
+        width: 136
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

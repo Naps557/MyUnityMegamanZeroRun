@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: 6c40b79de0eb8a045a4f992c4e46cc2c
+timeCreated: 1448012028
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MegaManZero2_0
+    21300002: MegaManZero2_1
+    21300004: MegaManZero2_2
+    21300006: MegaManZero2_3
+    21300008: MegaManZero2_4
+    21300010: MegaManZero2_5
+    21300012: MegaManZero2_6
+    21300014: MegaManZero2_7
+    21300016: MegaManZero2_8
+    21300018: MegaManZero2_9
+    21300020: MegaManZero2_10
+    21300022: MegaManZero2_11
+    21300024: MegaManZero2_12
+    21300026: MegaManZero2_13
+    21300028: MegaManZero2_14
+    21300030: MegaManZero2_15
+    21300032: MegaManZero2_16
+    21300034: MegaManZero2_17
+    21300036: MegaManZero2_18
+    21300038: MegaManZero2_19
+    21300040: MegaManZero2_20
+    21300042: MegaManZero2_21
+    21300044: MegaManZero2_22
+    21300046: MegaManZero2_23
+    21300048: MegaManZero2_24
+    21300050: MegaManZero2_25
+    21300052: MegaManZero2_26
+    21300054: MegaManZero2_27
+    21300056: MegaManZero2_28
+    21300058: MegaManZero2_29
+    21300060: MegaManZero2_30
+    21300062: MegaManZero2_31
+    21300064: MegaManZero2_32
+    21300066: MegaManZero2_33
+    21300068: MegaManZero2_34
+    21300070: MegaManZero2_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MegaManZero2_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 294
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 294
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 294
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 295
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 243
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 243
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 243
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 186
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 186
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 186
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_10
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 186
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 217
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 210
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 210
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 210
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_15
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 210
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_16
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 210
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_17
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 210
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_18
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 210
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_19
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 141
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 141
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 141
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_22
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 141
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_23
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 141
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_24
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 141
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_25
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 141
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_26
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 141
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_27
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 141
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_28
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 141
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 90
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_30
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 90
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 90
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_32
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 90
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_33
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 90
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_34
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 90
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MegaManZero2_35
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 42
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
